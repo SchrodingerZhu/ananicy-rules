@@ -7,4 +7,3 @@
 # https://ddnet.org/
 { "name": "DDNet", "type": "Game" }
 { "name": "DDNet-Server", "type": "LowLatency_RT" }
-
